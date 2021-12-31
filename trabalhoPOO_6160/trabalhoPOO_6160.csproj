@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{88F94727-E249-4A10-815A-A77C003B4822}</ProjectGuid>
+    <ProjectGuid>{C320E36E-05D3-4F13-B4E4-1D22799902D9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>trabalhoPOO_6160</RootNamespace>
     <AssemblyName>trabalhoPOO_6160</AssemblyName>
@@ -43,11 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Client.cs" />
+    <Compile Include="Order.cs" />
+    <Compile Include="Entity.cs" />
+    <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Supplier.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

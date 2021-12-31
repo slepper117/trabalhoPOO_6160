@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using trabalhoPOO_6160.Controller;
 
 namespace trabalhoPOO_6160
 {
@@ -10,9 +7,7 @@ namespace trabalhoPOO_6160
     {
         static void Main(string[] args)
         {
-            Client p1 = new Client("Cliente 1", "Endereço Cliente 1");
-            string x = p1.Address;
-            Console.WriteLine(x);
+            _ = new StoreController();
 
             Console.ReadKey();
         }

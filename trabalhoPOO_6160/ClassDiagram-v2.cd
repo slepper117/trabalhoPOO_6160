@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="trabalhoPOO_6160.Controller.StoreController" Collapsed="true">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEABggAABAAAAACAAAAAAAAAAQAAAIAABAAAQAA=</HashCode>
+      <FileName>Controller\StoreController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="trabalhoPOO_6160.Client" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="trabalhoPOO_6160.Entity" Collapsed="true">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAACAAAAIAAAACAQAAAIEAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="trabalhoPOO_6160.Order" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAIAAAAAAAAAAAQEAAABAAAAAA=</HashCode>
+      <FileName>Model\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="trabalhoPOO_6160.Product" Collapsed="true">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAEAQAgAAAAIAAAAAAAAAAEAEEAAABJAAABCAA=</HashCode>
+      <FileName>Model\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="trabalhoPOO_6160.Supplier" Collapsed="true">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Supplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="trabalhoPOO_6160.Model.StoreModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAhAAAAAAAAAACAQAigAAAAAAABAAACDABQAAA=</HashCode>
+      <FileName>Model\StoreModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="trabalhoPOO_6160.View.EntityView" Collapsed="true">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAACAAAAIAAAECAQAIAIFAAAGAQAQAAAAACA=</HashCode>
+      <FileName>View\EntityView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="trabalhoPOO_6160.View.OrderView" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAABAAAAgAAAAMAAQABAAAAAAAAAAA=</HashCode>
+      <FileName>View\OrderView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="trabalhoPOO_6160.View.ProductView" Collapsed="true">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAEAQAgAAAAIAAAAgAAgAAEAcMAAABJAAABCAA=</HashCode>
+      <FileName>View\ProductView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="trabalhoPOO_6160.Program" Collapsed="true">
+    <Position X="11.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="trabalhoPOO_6160.Model.IStoreModel" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAAAAACAAAQAAA=</HashCode>
+      <FileName>Model\IStoreModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="trabalhoPOO_6160.EntityType" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>EntityType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

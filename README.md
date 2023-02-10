@@ -1,5 +1,7 @@
-# trabalhoPOO_6160 - POO - IPCA
-Trabalho realizado para a Disciplina de Programação orientada a Objtos
+# trabalhoPOO_6160 - LESI - IPCA
+Projeto desenvolvido para a disciplina de Programação Orientada a Objetos. 
+
+Esta disciplina faz parte do segundo ano curricular da Licenciatura em Engenharia de Sistemas Informáticos.
 
 ## Controlo de Versão
 Versão 1.0 – Fase 1 de Entrega (17-11-2021)
